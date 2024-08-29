@@ -20,6 +20,9 @@ A string is a sequence of characters treated as a single data type. In C++, stri
 <strong> Code: </strong>
 <br>
 ```cpp
+// Premish Ninawe
+// 23070123092
+// ENTC B1
 #include<iostream>
 using namespace std;
 int main()
@@ -43,6 +46,8 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/b15be4e4-430f-4ea3-9578-77dedeadb610)
+
 
 
 ## Program 2: Reverse the elements of an array.
@@ -51,29 +56,35 @@ int main()
 <strong> Code: </strong>
 <br>
 ```cpp
+// Premish Ninawe
+// 23070123092
+// ENTC B1
 #include<iostream>
 using namespace std;
 int main()
 {
   int n;
-  cout<<"Enter the number of elements in an array: ";
+  cout<<"Enter the number of elements in an array";
   cin>>n;
   int a[n];
-  cout<<"Enter the array elements: ";
+cout<<"Enter the array elements";
   for(int i=0;i<n;i++)
   {
     cin>>a[i];
   }
-  cout<<"The elements of array are: ";
-  for(int i=0;i<n;i++)
+  cout<<"The elements of array are";
+   for(int i=n-1;i>=0;i--)
   {
-     cout<<" "<<a[i];
+     cout<<" ";
+    cout<<a[i];
   }
-  return 0;
+   return 0;
 }
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/5e65deee-f057-4177-8773-2195531f5f9a)
+
 
 
 
@@ -83,6 +94,9 @@ int main()
 <strong> Code: </strong>
 <br>
 ```cpp
+// Premish Ninawe
+// 23070123092
+// ENTC B1
 #include<iostream>
 using namespace std;
 int main()
@@ -121,6 +135,8 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/bbcb5e51-ebb3-4e97-a371-37995c2a58d5)
+
 
 
 
@@ -130,6 +146,9 @@ int main()
 <strong> Code: </strong>
 <br>
 ```cpp
+// Premish Ninawe
+// 23070123092
+// ENTC B1
 #include<iostream>
 using namespace std;
 int main()
@@ -158,6 +177,7 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/8fe3f029-022d-45e4-80d9-40ebef508b67)
 
 
 
@@ -167,6 +187,9 @@ int main()
 <strong> Code: </strong>
 <br>
 ```cpp
+// Premish Ninawe
+// 23070123092
+// ENTC B1
 #include<iostream>
 using namespace std;
 int main()
@@ -200,15 +223,19 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/e26d1819-1e11-4bf7-9335-06b3cae78b7c)
 
 
 
-## Program 6: Take the input from user and print.
+## Program 6: Take the string as an input from the user and print.
 <br>
 
 <strong> Code: </strong>
 <br>
 ```cpp
+// Premish Ninawe
+// 23070123092
+// ENTC B1
 #include<iostream>
 using namespace std;
 int main()
@@ -231,6 +258,9 @@ int main()
 <strong> Code: </strong>
 <br>
 ```cpp
+// Premish Ninawe
+// 23070123092
+// ENTC B1
 #include<iostream>
 using namespace std;
 int main()
@@ -255,6 +285,9 @@ int main()
 <strong> Code: </strong>
 <br>
 ```cpp
+// Premish Ninawe
+// 23070123092
+// ENTC B1
 #include<iostream>
 using namespace std;
 int main()
@@ -282,6 +315,9 @@ int main()
 <strong> Code: </strong>
 <br>
 ```cpp
+// Premish Ninawe
+// 23070123092
+// ENTC B1
 #include<iostream>
 #include<string>
 using namespace std;
