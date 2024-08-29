@@ -249,6 +249,7 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/e5a0cc77-e36c-4082-8f78-76e6e4f6790d)
 
 
 
@@ -306,6 +307,7 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/f43a26b7-c2f1-4c1a-8a4f-8d82a81ccbaf)
 
 
 
@@ -349,6 +351,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/20c29a48-8272-4389-861d-c0a343240893)
 
 
 ## Conclusion:
